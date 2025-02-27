@@ -29,12 +29,10 @@ G. ** Use Image placeholders urls from Lorem Picsum (https://picsum.photos/) and
 H. ** Use google scholar or other data resources to give insights with infographics or similar
 ---
 
-### Questions:
+### Questions for the user:
 1. What is the **specific topic** for the article?  
 2. Do you have a particular **tone or style** preference (formal, conversational, persuasive, etc.)?  
 3. Would you like a **specific word count range** for the article?  
-
+4. Inspirational content or additional information
 ---
 
-**Next Steps:**  
-Please provide the **topic, inspiration, and answers to the questions** so I can refine the prompt further for maximum effectiveness.  
