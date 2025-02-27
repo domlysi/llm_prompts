@@ -25,7 +25,7 @@ C. **Provide an optional social media summary** for easy sharing.
 D. **Incorporate visual suggestions** (e.g., charts, infographics) for better user engagement.  
 E. **Use storytelling techniques** to make technical topics more relatable.  
 F. **Use Tables to compare and display relevant data you gathered e.g. compering methods, products, prices etc.
-G. ** Use Image placeholders urls from Lorem Picsum (https://picsum.photos/) and use captions to describe what kind of image it should b.
+G. ** Use Image placeholders [IMAGE HERE] and add captions to describe what kind of image it should be.
 H. ** Use google scholar or other data resources to give insights with infographics or similar
 ---
 
